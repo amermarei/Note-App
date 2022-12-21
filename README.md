@@ -1,3 +1,16 @@
+## Featutes :
+- Authentication (Login - logout - Register)
+- Edit Notes
+- Delete Notes
+- Save Notes 
+
+## Tech Used :
+- HTML5
+- CSS3
+- Bootstrap
+- React js (routing - axios - context )
+- jwt decode 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
