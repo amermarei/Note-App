@@ -8,7 +8,7 @@
 - HTML5
 - CSS3
 - Bootstrap
-- React js (routing - axios - context )
+- React js 
 - jwt decode 
 
 # Getting Started with Create React App
